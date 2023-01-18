@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/joshmartin0432/joshmartin/_apis/build/status/JoshuaMartin1.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/joshmartin0432/joshmartin/_build/latest?definitionId=1&branchName=build-pipeline)
 
 # Contributing
 
